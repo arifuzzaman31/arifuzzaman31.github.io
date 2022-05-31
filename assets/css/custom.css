@@ -37,3 +37,10 @@
 .catelist h5 {
     text-align: left;
 }
+.screenshot img {
+   
+    transition: 500ms ease all;
+}
+.screenshot:hover img{
+    margin-top: -20px;
+}
